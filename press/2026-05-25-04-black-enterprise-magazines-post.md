@@ -1,7 +1,9 @@
 ---
 title: Black Enterprise Magazine's Post
 url: https://www.linkedin.com/posts/black-enterprise_kohls-corporation-named-michael-j-bender-activity-7400202007925551104-HbM1
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Kohl''s" press release artificial intelligence'
 position: 4
 source: serpapi-google

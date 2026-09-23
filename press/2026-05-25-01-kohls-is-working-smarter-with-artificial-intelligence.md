@@ -1,7 +1,9 @@
 ---
 title: Kohl's Is Working Smarter With Artificial Intelligence
 url: https://corporate.kohls.com/news/the-four-technologies-to-know-kohls-is-working-smarter-with-artificial-intelligence
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Kohl''s" press release artificial intelligence'
 position: 1
 source: serpapi-google
